@@ -1,1 +1,1 @@
-# iris flower streamlit predicting using Machine Learning Logistic Regression
+# Iris Flower Logistic Regression Streamlit Machine Learning
